@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and web development
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on C# projects and Front End projects
-- 📫 How to reach me +90 506 828 23 78
+- 📫 How to reach me +90 506 828 23 78 / oguzhanagirbas1@gmail.com
 
 <!---
 viscyera/viscyera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
